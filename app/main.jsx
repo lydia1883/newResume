@@ -5,6 +5,6 @@ import App from './components/App/App.jsx';
 import 'antd/dist/antd.css';
 
 ReactDOM.render(
-  <App />,
+  <App />, 
   document.body.appendChild(document.createElement('div'))
 );
